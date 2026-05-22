@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/3281eb23-7581-4666-9a08-e71e0d3f8edc
 Maalesef bu projeden elimde kalan tek şey bu video.
 
 ## Bana Kattıkları:
-Bu proje ile ilk defa **GSM** modülü _"Quectel M95"_ kullandım ve **AT** komutları -AT, ATD, ATH, ATA- ile tanıştım. Bu sayede işlevsel bir telefon ortaya koyma serüvenine girmiş oldum.
+Bu proje ile ilk defa **GSM** modülü _"Quectel M95"_ kullandım ve **AT** komutları ile tanıştım. Bu sayede işlevsel bir telefon ortaya koyma serüvenine girmiş oldum.
 
 ### O Zamanki Ben:
 Bu projeyi tam olarak 21.01.2021 tahinde çalışır hale sokmuşum bu bilgiyi de videonun başlığından elde ediyorum ancak hafızamdan kalanlar ve diğer projelerimin tarihileri de buna işaret ediyor. Bu tarihte 13 yaşındaydım ve yaklaşık 1-2 yıldır bu alanla uğraşmaya başlamıştım. Maalesef o zamanlar herhangi bir yere, yaptığım projelerimin kaydını tutmadığımdan bunu seneler sonra yapıyorum. Bir projeyi bitirdiğimde hemen diğerine geçiyordum bunun için masam hiç toplu kalmıyordu. Kendi yaptığım güç kaynağı ve hoparlörde video arkaplanında gözüküyor...
